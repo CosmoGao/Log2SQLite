@@ -1,6 +1,6 @@
 # Log2SQLite
 
-这是一个将日志导入SQLite数据库的脚本，需要 Python 2 环境，已经封装为 Windows 可执行文件。
+这是一个将日志导入SQLite数据库的脚本，基于 *Python 2.7+* 环境，已经封装为 Windows 可执行文件。
 
 ## 使用说明
 
