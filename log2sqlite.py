@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 import re
 import sqlite3
-import os
 #说明
 print u''
 print u'-----------------使用说明-----------------'
@@ -33,6 +32,6 @@ try:
                 #print '100 records has been submitted.'
     log_db.commit()
     print 'job done!'
-    os.system('pause')
+    input()
 except:
     pass
