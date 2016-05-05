@@ -1,2 +1,7 @@
 # Log2SQLite
-A tool transform log file to sqlite database
+
+这是一个将日志导入SQLite数据库的脚本，需要 Python 2 环境，已经封装为 Windows 可执行文件。
+
+## 使用说明
+
+将脚本放入日志所在目录，运行脚本，输入日志文件名（含扩展名），将在相同目录生成log.db数据库。
