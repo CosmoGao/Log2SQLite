@@ -5,3 +5,5 @@
 ## 使用说明
 
 将脚本放入日志所在目录，运行脚本，输入日志文件名（含扩展名），将在相同目录生成log.db数据库。
+
+[![Bless](https://cdn.rawgit.com/LunaGao/BlessYourCodeTag/master/tags/god.svg)](http://lunagao.github.io/BlessYourCodeTag/)
